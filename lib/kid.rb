@@ -12,7 +12,7 @@ class Kid
 end
 
 extend MetaDancing
-  include Dance 
+
   
    
   
